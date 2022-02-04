@@ -5,16 +5,16 @@ entries:
   - title: Périodes
     entries:
       - title: Mon alternance à AEF Info
-        url: https://deroudilhep.github.io/pages/aef.html
+        url: https://deroudilhep.github.io/pages/periodes/aef.html
       - title: Ma deuxième année de master
-        url: https://deroudilhep.github.io/pages/m2.html
+        url: https://deroudilhep.github.io/pages/periodes/m2.html
       - title: Mon stage d'été au service data du Parisien
-        url: https://deroudilhep.github.io/pages/le-parisien-data.html
+        url: https://deroudilhep.github.io/pages/periodes/le-parisien-data.html
       - title: Ma première année de master
-        url: https://deroudilhep.github.io/pages/m1.html
+        url: https://deroudilhep.github.io/pages/periodes/m1.html
 
 
   - title: Projets
     entries:
       - title: Data Isère 
-        url: https://deroudilhep.github.io/projets/data-isere.html
+        url: https://deroudilhep.github.io/pages/projets/data-isere.html
