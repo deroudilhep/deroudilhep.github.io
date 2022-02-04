@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Mon stage d'été au service data du Parisien
+title: Le Parisien Data
 ---
 
+# Mon stage d'été au service Data du Parisien
+ 
  
