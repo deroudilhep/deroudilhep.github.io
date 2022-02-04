@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About
+title: À propos
 ---
 
-This is an example page!
+Pierre Deroudilhe 
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+[pierre.deroudilhe@protonmail.com](mailto:pierre.deroudilhe@protonmail.com)
+
+Journaliste, je termine mon cursus en datajournalisme et enquête au Centre de formation des journalistes à Paris et suis alternant au sein du service Data-Sup Recherche d'AEF Info. 
