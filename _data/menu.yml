@@ -2,37 +2,24 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Périodes
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: Mon alternance à AEF Info
+        url: https://deroudilhep.github.io/pages/aef.html
+      - title: Ma deuxième année de master
+        url: https://deroudilhep.github.io/pages/m2.html
+      - title: Mon stage d'été au service data du Parisien
+        url: https://deroudilhep.github.io/pages/le-parisien-data.html
+      - title: Ma première année de master
+        url: https://deroudilhep.github.io/pages/m1.html
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
+  - title: Projets
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title:
+        url: 
+      - title:
+        url: 
+      - title:
+        url: 
+      - title:
+        url: 
