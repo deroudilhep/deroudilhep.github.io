@@ -13,13 +13,8 @@ entries:
       - title: Ma première année de master
         url: https://deroudilhep.github.io/pages/m1.html
 
+
   - title: Projets
     entries:
-      - title:
-        url: 
-      - title:
-        url: 
-      - title:
-        url: 
-      - title:
-        url: 
+      - title: Data Isère 
+        url: https://deroudilhep.github.io/projets/data-isere.html
