@@ -17,7 +17,7 @@ title: Le Parisien Data
 - [Covid-19 : 5 graphiques pour comprendre la stabilisation de la situation sanitaire](https://www.leparisien.fr/societe/covid-19-5-graphiques-pour-comprendre-la-stabilisation-de-la-situation-sanitaire-24-08-2021-TJVGVIS5QFGYJKKAGFFRMQGKPA.php)
 - [Grand Paris : où en est la vaccination dans votre commune ?](https://www.leparisien.fr/societe/sante/grand-paris-ou-en-est-la-vaccination-dans-votre-commune-20-08-2021-EU7BSDAEARAJVBRWF6H7XWIASQ.php)
 
-## J'ai également passé deux semaines au pôle news de la rédaction numérique du Parisien, l'occasion pour moi d'écrire ces articles : 
+J'ai également passé deux semaines au pôle news de la rédaction numérique du Parisien, l'occasion pour moi d'écrire ces articles : 
 
 - [Après Altice, Iliad (Free) veut lui aussi quitter la Bourse](https://www.leparisien.fr/economie/apres-altice-iliad-free-veut-lui-aussi-quitter-la-bourse-30-07-2021-MPKB2MYVK5HQDLUXVPSHPQFJ2A.php)
 - [Accident mortel dans la Somme : la conductrice avait cinq fois plus d’alcool dans le sang que la limite autorisée](https://www.leparisien.fr/faits-divers/accident-mortel-dans-la-somme-la-conductrice-avait-cinq-fois-plus-dalcool-dans-le-sang-que-la-limite-autorisee-30-07-2021-7WVTBGX2TFGLPGCLTK55NCCUWI.php)
