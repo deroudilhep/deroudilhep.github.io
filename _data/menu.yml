@@ -17,3 +17,6 @@ entries:
     entries:
       - title: Data Isère 
         url: https://deroudilhep.github.io/pages/projets/data-isere.html
+        
+  - title: Mon CV
+    url: https://deroudilhep.github.io/pages/sub/cv.html
