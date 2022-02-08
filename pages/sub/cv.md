@@ -5,50 +5,39 @@ title: CV
 
 # Expériences journalistiques 
 
-## Depuis octobre 2021
-
+**Depuis octobre 2021**
 Apprenti, [AEF Info](https://www.aefinfo.fr/), Paris - Service Data-Sup Recherche
 
-## De juillet 2021 à août 2021
-
+**De juillet 2021 à août 2021**
 Stagiaire, [Le Parisien](https://www.leparisien.fr/), Paris - Cellule Data et innovation
 
-## De septembre 2020 à octobre 2021
-
+**De septembre 2020 à octobre 2021**
 Rédacteur, [L'Ecornifleur](https://lecornifleur.fr/author/pderoudilhe/), Lyon - Média du master de journalisme de Sciences Po Lyon
 
-## De novembre 2019 à décembre 2019
-
+**De novembre 2019 à décembre 2019**
 Stagiaire, [JV Le Mag](https://www.jvlemag.com/), Paris - Rédaction d'articles et secrétariat de rédaction 
 
-## D'octobre 2018 à juin 2020
-
+**D'octobre 2018 à juin 2020**
 Rédacteur et cofondateur, [L'Après-Vu](https://lapresvu1.wordpress.com/author/deroudilhep/), Lille - Webzine culturel étudiant
 
-## De mars 2018 à avril 2018 
-
+**De mars 2018 à avril 2018**
 Stagiaire, [Le Petit Bulletin](https://www.petit-bulletin.fr/lyon), Lyon - Hebdomadaire culturel lyonnais, rédaction d'articles 
 
 # Diplômes et formations
 
-## Depuis septembre 2020
-
+**Depuis septembre 2020**
 Datajournalisme et enquête, CFJ Paris et Sciences Po Lyon, Paris et Lyon
 
-## De 2019 à 2020
-
+**De 2019 à 2020**
 L'Académie, ESJ, Lille - Préparation aux concours des écoles de journalisme
 
-## De 2018 à 2019 
-
+**De 2018 à 2019**
 Licence d'Histoire, Université, Lille
 
-## De 2016 à 2018
-
+**De 2016 à 2018**
 Classe préparatoire A/L, Lycée Edouard Herriot, Lyon - Khâgne Chartes option Géographie
 
-## De 2015 à 2016
-
+**De 2015 à 2016**
 Baccalauréat littéraire, Lycée Camille Corot, Isère - Mention Très Bien
 
 # Compétences et spécialités
