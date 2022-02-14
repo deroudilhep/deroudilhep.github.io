@@ -3,7 +3,9 @@
 
 This is the repo that hosts my personal website. 
 
-[pierre.deroudilhe@protonmail.com](pierre.deroudilhe@protonmail.com)
+[deroudilhep.github.io](https://deroudilhep.github.io)
+
+[pierre.deroudilhe@protonmail.com](mailto:pierre.deroudilhe@protonmail.com)
 
 ## License
 
