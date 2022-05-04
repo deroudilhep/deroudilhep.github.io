@@ -3,6 +3,6 @@ layout: page
 title: Projet individuel CFJ
 ---
 
-# Projet individuel terminal du CFJ
+# projet individuel terminal du cfj
 
-Cette page est en construction, merci de revenir plus tard. 
+page en construction, merci de revenir plus tard 

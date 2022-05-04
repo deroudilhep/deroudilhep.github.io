@@ -1,10 +1,10 @@
 ---
 layout: page
-title: À propos
+title: à propos
 ---
 
-Pierre Deroudilhe 
+pierre deroudilhe 
 
-[pierre.deroudilhe@protonmail.com](mailto:pierre.deroudilhe@protonmail.com)
+[pierre.deroudilhe@pm.me](mailto:pierre.deroudilhe@pm.me)
 
-Journaliste, je termine mon cursus en datajournalisme et enquête au Centre de formation des journalistes à Paris et suis alternant au sein du service Data-Sup Recherche d'AEF Info. 
+Journaliste, je termine mon cursus en datajournalisme et enquête au Centre de formation des journalistes à Paris et suis alternant au sein du service data du fil enseignement et recherche d'AEF Info. 

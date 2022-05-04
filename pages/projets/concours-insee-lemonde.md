@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Insee / Le Monde
+title: insee / le monde
 ---
 
-# Concours Insee / Le Monde
+# concours insee / le monde
 
-En 2021, les étudiants du master datajournalisme et enquête du CFJ ont eu l'occasion de participer à un concours organisé par l'Insee et Le Monde. Dans le cadre de cette compétition, il s'agissait de produire un article data dans un temps imparti d'environ un mois. 
+En 2021, les étudiants du master datajournalisme et enquête du CFJ ont eu l'occasion de participer à un concours organisé par l'Insee et Le Monde. Dans le cadre de cette compétition, il s'agissait de produire un article *data* dans un temps imparti d'environ un mois. 
 
 Le thème du concours était le suivant : "Les inégalités en France, au-delà des évidences".
 

@@ -1,9 +1,9 @@
 The MIT License (MIT)
 
-Theme original author
+Original theme author
 Copyright (c) 2020 Riccardo Graziosi
 
-Modified to make a personnal website
+Modified for my personal website
 Copyright (c) 2022 Pierre Deroudilhe
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

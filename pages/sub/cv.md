@@ -1,55 +1,55 @@
 ---
 layout: page
-title: CV
+title: cv
 ---
 
-# Expériences journalistiques 
+# compétences et spécialités
 
-**Depuis octobre 2021**
-Apprenti, [AEF Info](https://www.aefinfo.fr/), Paris - Service Data-Sup Recherche
+**data :** statistiques et probabilités, tableurs et R, datawrapper, flourish, tableau, ...
 
-**De juillet 2021 à août 2021**
-Stagiaire, [Le Parisien](https://www.leparisien.fr/), Paris - Cellule Data et innovation
+**code et programmation :** R, *command line*, notions de html, css et python 
 
-**De septembre 2020 à octobre 2021**
-Rédacteur, [L'Ecornifleur](https://lecornifleur.fr/author/pderoudilhe/), Lyon - Média du master de journalisme de Sciences Po Lyon
+**enquête :** scraping de contenus sur les réseaux sociaux, osint 
 
-**De novembre 2019 à décembre 2019**
-Stagiaire, [JV Le Mag](https://www.jvlemag.com/), Paris - Rédaction d'articles et secrétariat de rédaction 
+**vidéo :** montage avec *premiere pro*, *motion design* avec *after effect* (création d'OGE)
 
-**D'octobre 2018 à juin 2020**
-Rédacteur et cofondateur, [L'Après-Vu](https://lapresvu1.wordpress.com/author/deroudilhep/), Lille - Webzine culturel étudiant
+**langues :** anglais, niveau C1 certifié (cae : 188/230)
 
-**De mars 2018 à avril 2018**
-Stagiaire, [Le Petit Bulletin](https://www.petit-bulletin.fr/lyon), Lyon - Hebdomadaire culturel lyonnais, rédaction d'articles 
+**réseaux sociaux :** [twitter](https://twitter.com/deroudilhep) et [linkedin](https://www.linkedin.com/in/pierre-deroudilhe/)
 
-# Diplômes et formations
+# expériences journalistiques 
+
+**depuis octobre 2021**
+apprenti, [aef info](https://www.aefinfo.fr/), paris - service data-sup recherche
+
+**de juillet 2021 à août 2021**
+stagiaire, [le parisien](https://www.leparisien.fr/), paris - cellule data et innovation
+
+**de septembre 2020 à octobre 2021**
+rédacteur, [l'ecornifleur](https://lecornifleur.fr/author/pderoudilhe/), lyon - média du master de journalisme de sciences po lyon
+
+**de novembre 2019 à décembre 2019**
+stagiaire, [jv le mag](https://www.jvlemag.com/), paris - rédaction d'articles et secrétariat de rédaction 
+
+**d'octobre 2018 à juin 2020**
+rédacteur et cofondateur, [l'après-vu](https://lapresvu1.wordpress.com/author/deroudilhep/), lille - webzine culturel étudiant
+
+**de mars 2018 à avril 2018**
+stagiaire, [le petit bulletin](https://www.petit-bulletin.fr/lyon), lyon - hebdomadaire culturel lyonnais, rédaction d'articles 
+
+# diplômes et formations
 
 **Depuis septembre 2020**
 Datajournalisme et enquête, CFJ Paris et Sciences Po Lyon, Paris et Lyon
 
-**De 2019 à 2020**
-L'Académie, ESJ, Lille - Préparation aux concours des écoles de journalisme
+**de 2019 à 2020**
+l'académie, esj, lille - préparation aux concours des écoles de journalisme
 
-**De 2018 à 2019**
-Licence d'Histoire, Université, Lille
+**de 2018 à 2019**
+licence d'histoire, université, lille
 
-**De 2016 à 2018**
-Classe préparatoire A/L, Lycée Edouard Herriot, Lyon - Khâgne Chartes option Géographie
+**de 2016 à 2018**
+classe préparatoire a/l, lycée edouard herriot, lyon - khâgne chartes option géographie
 
-**De 2015 à 2016**
-Baccalauréat littéraire, Lycée Camille Corot, Isère - Mention Très Bien
-
-# Compétences et spécialités
-
-Je suis à l'aise avec l'informatique, et les questions liées au numérique en général, et je m'intéresse depuis peu à la question de la prévention des risques naturels en France. 
-
-Mon expérience en datajournalisme m'a appris à manipuler des jeux de données de tailles diverses pour répondre aux questions posées, ou non, par l'actualité et l'éclairant, toujours en réalisant au moins un calcul.
-
-J'éprouve une curiosité vive pour les sujets qui n'intéressent personne au premier abord. 
-
-**Langues :** Anglais, niveau C1 (CAE: 188/200)
-
-**Centres d'intérêt :** data (datavisualisation, datajournalisme, *open data*) ; code et programmation (R, Python, HTML/CSS, SQL, Command Line) ; mathématiques (statistiques, probabilités) ; 38 Isère (Terres Froides, myrtilles, CSBJ). 
-
-**Réseaux sociaux :** [Twitter](https://twitter.com/deroudilhep) et [LinkedIn](https://www.linkedin.com/in/pierre-deroudilhe/)
+**de 2015 à 2016**
+baccalauréat littéraire, lycée camille corot, isère - mention très bien

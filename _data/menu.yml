@@ -2,25 +2,25 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Périodes
+  - title: périodes
     entries:
-      - title: Mon alternance à AEF Info
+      - title: alternance à aef info
         url: https://deroudilhep.github.io/pages/periodes/alternance-aef.html
-      - title: Ma deuxième année de master
+      - title: deuxième année de master 
         url: https://deroudilhep.github.io/pages/periodes/m2.html
-      - title: Mon stage d'été au service data du Parisien
+      - title: stage d'été au service data du parisien
         url: https://deroudilhep.github.io/pages/periodes/le-parisien-data.html
-      - title: Ma première année de master
+      - title: première année de master
         url: https://deroudilhep.github.io/pages/periodes/m1.html
 
-  - title: Projets
+  - title: projets
     entries:
-      - title: Projet individuel terminal du CFJ
+      - title: projet individuel terminal du cfj
         url: htpps://deroudilhep.github.io/pages/projets/projet-individuel-cfj.html
-      - title: Concours Insee / Le Monde 
-        url: htpps://deroudilhep.github.io/pages/projets/insee-lemonde.html
-      - title: Data Isère 
+      - title: concours insee / le monde 
+        url: htpps://deroudilhep.github.io/pages/projets/concours-insee-lemonde.html
+      - title: data isère
         url: https://deroudilhep.github.io/pages/projets/data-isere.html
         
-  - title: Mon CV
+  - title: cv
     url: https://deroudilhep.github.io/pages/sub/cv.html
