@@ -2,6 +2,8 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: A LA UNE : projet individuel terminal du cfj
+    url: https://deroudilhep.github.io/pages/projets/projet-individuel-cfj.html
   - title: périodes
     entries:
       - title: alternance à aef info
@@ -15,10 +17,8 @@ entries:
 
   - title: projets
     entries:
-      - title: projet individuel terminal du cfj
-        url: htpps://deroudilhep.github.io/pages/projets/projet-individuel-cfj.html
       - title: concours insee / le monde 
-        url: htpps://deroudilhep.github.io/pages/projets/concours-insee-lemonde.html
+        url: https://deroudilhep.github.io/pages/projets/concours-insee-lemonde.html
       - title: data isère
         url: https://deroudilhep.github.io/pages/projets/data-isere.html
         

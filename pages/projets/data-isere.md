@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: Data Isère
+title: data isère
 ---
 
 ## de la plus récente à la plus ancienne, les petites infographies que j'ai faites sur l'isère en profitant des données utilisées durant mon stage au parisien

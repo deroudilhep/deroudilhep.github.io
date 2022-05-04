@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projet individuel CFJ
+title: projet cfj
 ---
 
 # projet individuel terminal du cfj
