@@ -24,3 +24,6 @@ L'ensemble des contenus proposés sur le site d'AEF Info sont payants. Les artic
 - [Deust sur Parcoursup : le bilan du recrutement des bacheliers 2021, dans ces formations très locales](https://www.aefinfo.fr/depeche/669317)
 - [CPGE scientifiques : les filles représentent 37 % des candidats sur Parcoursup, mais leur part tombe à 33 % des admis](https://www.aefinfo.fr/depeche/670840)
 - [Parcoursup 2021 : la part des filles en licence scientifique se maintient à 41%, de fortes disparités entre disciplines](https://www.aefinfo.fr/depeche/671368)
+- [Bourses sur critères sociaux : comment ont-elles évolué ces 20 dernières années ?](https://www.aefinfo.fr/depeche/672078)
+- [Universités européennes : combien d’étudiants et de personnels compte chacune des 41 alliances ?](https://www.aefinfo.fr/depeche/673477)
+- [L’enveloppe consacrée par l’État aux bourses sur critères sociaux a augmenté de 77 % depuis 2006](https://www.aefinfo.fr/depeche/674071)

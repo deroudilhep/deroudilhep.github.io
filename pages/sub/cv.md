@@ -15,7 +15,7 @@ title: cv
 
 **langues :** anglais, niveau C1 certifié (cae : 188/230)
 
-**réseaux sociaux :** [twitter](https://twitter.com/deroudilhep) et [linkedin](https://www.linkedin.com/in/pierre-deroudilhe/)
+**réseaux sociaux :** [twitter](https://twitter.com/deroudilhep) et [linkedin](https://www.linkedin.com/in/pierre-deroudilhe/) et [github](https://github.com/deroudilhep)
 
 # expériences journalistiques 
 

@@ -17,6 +17,8 @@ entries:
 
   - title: projets
     entries:
+      - title: laval, un programme pour calculer le temps total des vidéos d'une chaîne youtube
+        url: https://https://github.com/deroudilhep/laval/
       - title: concours insee / le monde 
         url: https://deroudilhep.github.io/pages/projets/concours-insee-lemonde.html
       - title: data isère
