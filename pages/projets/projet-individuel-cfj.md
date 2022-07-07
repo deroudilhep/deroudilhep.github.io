@@ -5,7 +5,7 @@ title: projet individuel
 
 # Super article (test en cours)
 
-![super-illustration](https://https://deroudilhep.github.io/docs/img/clown.jpg)
+![super-illustration](https://deroudilhep.github.io/docs/img/clown.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis nunc justo, id pretium turpis blandit vitae. Morbi condimentum lacus vel dolor placerat, at tempus ex lacinia. Integer sagittis, risus vitae porttitor vulputate, nulla massa molestie lorem, vitae facilisis felis lacus vel risus. Nunc nec dui efficitur, elementum diam in, ullamcorper nisl. Morbi id nibh a risus laoreet auctor. Morbi nec massa consectetur, ultrices nisi vel, dapibus dui. Quisque sagittis maximus velit nec placerat.
 
