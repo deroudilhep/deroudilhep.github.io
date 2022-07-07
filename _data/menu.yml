@@ -2,26 +2,30 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-- title: A LA UNE - projet individuel final du cfj
-url: https://deroudilhep.github.io/pages/projets/projet-individuel-cfj.html
-- title: périodes
-entries:
-- title: alternance à aef info
-url: https://deroudilhep.github.io/pages/periodes/alternance-aef.html
-- title: deuxième année de master
-url: https://deroudilhep.github.io/pages/periodes/m2.html
-- title: stage d'été au service data du parisien
-url: https://deroudilhep.github.io/pages/periodes/le-parisien-data.html
-- title: première année de master
-url: https://deroudilhep.github.io/pages/periodes/m1.html
-- title: projets
-entries:
-- title: laval (programme)
-url: https://https://github.com/deroudilhep/laval/
-- title: concours insee / le monde
-url: https://deroudilhep.github.io/pages/projets/concours-insee-lemonde.html
-- title: data isère
-url: https://deroudilhep.github.io/pages/projets/data-isere.html
-- post-list: true
-- title: cv
-url: https://deroudilhep.github.io/pages/sub/cv.html
+  - title: A LA UNE - projet individuel final du cfj
+    url: https://deroudilhep.github.io/pages/projets/projet-individuel-cfj.html
+
+  - title: périodes
+    entries:
+      - title: alternance à aef info
+        url: https://deroudilhep.github.io/pages/periodes/alternance-aef.html
+      - title: deuxième année de master
+        url: https://deroudilhep.github.io/pages/periodes/m2.html
+      - title: stage d'été au service data du parisien
+        url: https://deroudilhep.github.io/pages/periodes/le-parisien-data.html
+      - title: première année de master
+        url: https://deroudilhep.github.io/pages/periodes/m1.html
+
+  - title: projets
+    entries:
+      - title: laval (programme)
+        url: https://https://github.com/deroudilhep/laval/
+      - title: concours insee / le monde
+        url: https://deroudilhep.github.io/pages/projets/concours-insee-lemonde.html
+      - title: data isère
+        url: https://deroudilhep.github.io/pages/projets/data-isere.html
+
+  - post-list: true
+
+  - title: cv
+    url: https://deroudilhep.github.io/pages/sub/cv.html
