@@ -8,13 +8,9 @@ entries:
   - title: périodes
     entries:
       - title: alternance à aef info
-        url: https://deroudilhep.github.io/pages/periodes/alternance-aef.html
-      - title: deuxième année de master
         url: https://deroudilhep.github.io/pages/periodes/m2.html
       - title: stage d'été au service data du parisien
         url: https://deroudilhep.github.io/pages/periodes/le-parisien-data.html
-      - title: première année de master
-        url: https://deroudilhep.github.io/pages/periodes/m1.html
 
   - title: projets
     entries:
