@@ -2,27 +2,28 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: A LA UNE - projet individuel final du cfj
-    url: https://deroudilhep.github.io/pages/projets/projet-individuel-cfj.html
-  - title: périodes
-    entries:
-      - title: alternance à aef info
-        url: https://deroudilhep.github.io/pages/periodes/alternance-aef.html
-      - title: deuxième année de master 
-        url: https://deroudilhep.github.io/pages/periodes/m2.html
-      - title: stage d'été au service data du parisien
-        url: https://deroudilhep.github.io/pages/periodes/le-parisien-data.html
-      - title: première année de master
-        url: https://deroudilhep.github.io/pages/periodes/m1.html
+	- title: A LA UNE - projet individuel final du cfj
+	url: https://deroudilhep.github.io/pages/projets/projet-individuel-cfj.html
 
-  - title: projets
-    entries:
-      - title: laval, un programme pour calculer le temps total des vidéos d'une chaîne youtube
-        url: https://https://github.com/deroudilhep/laval/
-      - title: concours insee / le monde 
-        url: https://deroudilhep.github.io/pages/projets/concours-insee-lemonde.html
-      - title: data isère
-        url: https://deroudilhep.github.io/pages/projets/data-isere.html
-        
-  - title: cv
-    url: https://deroudilhep.github.io/pages/sub/cv.html
+	- title: périodes
+		entries:
+		- title: alternance à aef info
+		url: https://deroudilhep.github.io/pages/periodes/alternance-aef.html
+		- title: deuxième année de master
+		url: https://deroudilhep.github.io/pages/periodes/m2.html
+		- title: stage d'été au service data du parisien
+		url: https://deroudilhep.github.io/pages/periodes/le-parisien-data.html
+		- title: première année de master
+		url: https://deroudilhep.github.io/pages/periodes/m1.html
+
+	- title: projets
+		entries:
+		- title: laval, un programme pour calculer le temps total des vidéos d'une chaîne youtube
+		url: https://https://github.com/deroudilhep/laval/
+		- title: concours insee / le monde
+		url: https://deroudilhep.github.io/pages/projets/concours-insee-lemonde.html
+		- title: data isère
+		url: https://deroudilhep.github.io/pages/projets/data-isere.html
+
+	- title: cv
+	url: https://deroudilhep.github.io/pages/sub/cv.html
