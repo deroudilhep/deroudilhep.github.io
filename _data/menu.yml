@@ -25,7 +25,5 @@ entries:
       - title: data isère
         url: https://deroudilhep.github.io/pages/projets/data-isere.html
 
-  - post-list: true
-
   - title: cv
     url: https://deroudilhep.github.io/pages/sub/cv.html
