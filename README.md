@@ -1,13 +1,15 @@
 
-# Pierre Deroudilhe
+# deroudilhep.github.io
 
-This is the repo that hosts my personal website. 
+This is my personal website, I'm using it to post and publish some of my work and stories. It also act as a blog for me, about personal thoughts or projects. It is only available in French.
 
-[deroudilhep.github.io](https://deroudilhep.github.io)
+## Authors
+
+[@deroudilhep](https://www.github.com/deroudilhep)
 
 [pierre.deroudilhe@pm.me](mailto:pierre.deroudilhe@pm.me)
 
+
 ## License
 
-The theme is available under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
+[MIT](https://choosealicense.com/licenses/mit/)

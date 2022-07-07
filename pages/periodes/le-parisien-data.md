@@ -5,7 +5,7 @@ title: le parisien data
 
 # stage d'été au service data du parisien
 
-Durant l'été entre ma première et ma deuxième année d'études de journalisme, j'ai effectué un stage de deux mois au service data du Parisien. Aux côtés de Stanislas, Victor et Fabien, j'ai appris avec une plus grande précision ce qu'est le datajournalisme, une façon de répondre aux questions posées par l'actualité, par la donnée, toujours en effectuant au moins un calcul. C'était ma première réelle expérience professionnelle en datajournalisme. 
+Durant l'été entre ma première et ma deuxième année d'études de journalisme, j'ai effectué un stage de deux mois au service data du Parisien. Aux côtés de Stanislas, Victor et Fabien, j'ai appris avec une plus grande précision ce qu'est le datajournalisme, une façon de répondre aux questions posées par l'actualité, grâce à la donnée. C'était ma première réelle expérience professionnelle en datajournalisme.
 
 La liste des articles que j'ai écrit durant ce stage : 
  
