@@ -1,10 +1,6 @@
 MIT License
 
-No Style Please theme author
-Copyright (c) 2020 Riccardo Graziosi
-
-Modified for personal use as website
-Copyright (c) 2022 Pierre Deroudilhe
+Copyright (c) 2022 Riccardo Graziosi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
