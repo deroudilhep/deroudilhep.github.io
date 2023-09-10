@@ -2,14 +2,39 @@ project:
   type: website
 
 website:
-  title: "deroudilhep.github.io"
+  title: "Pierre Deroudilhe"
   navbar:
-    right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
+    search: true
+    tools:
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/deroudilhep
+      - icon: mastodon
+        href: https://fosstodon.org/@deroudilhep
+      - icon: github
+        href: https://github.com/deroudilhep
+    left: 
+      - text: À propos
+        href: about.qmd
+      - text: CV
+        href: cv.pdf
+      - text: Posts de blog
+        href: ???
+  page-navigation: true
+  page-footer:
+    center:
+      - text: À propos
+        href: about.qmd
+      - text: CV
+        href: cv.pdf
+    right:
+      - icon: twitter
+        href: https://twitter.com/deroudilhep
+      - icon: mastodon
+        href: https://fosstodon.org/@deroudilhep
+      - icon: github
+        href: https://github.com/deroudilhep
+    border: false
+
 format:
   html:
     theme: cosmo
