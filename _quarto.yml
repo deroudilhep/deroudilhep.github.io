@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Pierre Deroudilhe"
+  site-url: "https://deroudilhep.github.io"
   navbar:
     search: true
     tools:
