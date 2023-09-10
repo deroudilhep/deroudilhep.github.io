@@ -13,13 +13,11 @@ website:
         href: https://fosstodon.org/@deroudilhep
       - icon: github
         href: https://github.com/deroudilhep
-    left: 
-      - text: À propos
-        href: about.qmd
-      - text: CV
-        href: cv.pdf
+    left:
       - text: Posts de blog
         href: posts_index.qmd
+      - text: CV
+        href: cv.pdf
   page-navigation: true
   page-footer:
     center:
