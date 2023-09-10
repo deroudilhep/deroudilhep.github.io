@@ -19,7 +19,7 @@ website:
       - text: CV
         href: cv.pdf
       - text: Posts de blog
-        href: ???
+        href: posts/index.qmd
   page-navigation: true
   page-footer:
     center:
