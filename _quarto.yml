@@ -28,8 +28,8 @@ website:
   page-navigation: true
   page-footer:
     center:
-      - text: À propos
-        href: about.qmd
+      - text: Posts de blog
+        href: posts_index.qmd
       - text: CV
         href: cv.pdf
     right:

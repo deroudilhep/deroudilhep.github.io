@@ -1,5 +1,5 @@
 ---
-title: "📊 Pierre Deroudilhe, journaliste, datajournaliste à AEF info 💾"
+title: "Journaliste à AEF info"
 image: profile.jpg
 about:
   template: jolla
