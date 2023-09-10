@@ -4,15 +4,22 @@ project:
 website:
   title: "Pierre Deroudilhe"
   site-url: "https://deroudilhep.github.io"
+  description: "Le site web de Pierre Deroudilhe, journaliste et datajournaliste à AEF info."
+  favicon: favicon.jpg
+  twitter-card: true
+  open-graph:
+    locale: fr_FR
   navbar:
     search: true
-    tools:
+    right:
       - icon: twitter
         href: https://twitter.com/deroudilhep
       - icon: mastodon
         href: https://fosstodon.org/@deroudilhep
       - icon: github
         href: https://github.com/deroudilhep
+      - icon: rss
+        href: posts_index.xml
     left:
       - text: Posts de blog
         href: posts_index.qmd
