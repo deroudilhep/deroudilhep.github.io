@@ -10,7 +10,6 @@ website:
   open-graph:
     locale: fr_FR
   navbar:
-    search: true
     right:
       - icon: twitter
         href: https://twitter.com/deroudilhep
@@ -24,7 +23,7 @@ website:
       - text: Posts de blog
         href: posts_index.qmd
       - text: CV
-        href: cv.pdf
+        href: docs/cv.qmd
   page-navigation: true
   page-footer:
     center:
@@ -39,11 +38,20 @@ website:
         href: https://fosstodon.org/@deroudilhep
       - icon: github
         href: https://github.com/deroudilhep
-    border: false
+      - icon: rss
+        href: posts_index.xml
 
 format:
   html:
-    theme: pulse
+    toc: true
+    toc-title: Sur cette page
+    link-external-icon: true
+    link-external-newwindow: true
+    code-overflow: wrap
+    code-copy: true
+    theme:
+      - united
+      - custom.scss
     css: styles.css
 
 
