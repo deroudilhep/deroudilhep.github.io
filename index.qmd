@@ -1,20 +1,28 @@
 ---
 title: "Journaliste à AEF info"
+subtitle: <pierre.deroudilhe@aefinfo.fr>
 image: profile.jpg
 about:
-  template: jolla
-  links:
-      - icon: twitter
-        href: https://twitter.com/deroudilhep
-      - icon: mastodon
-        href: https://fosstodon.org/@deroudilhep
-      - icon: github
-        href: https://github.com/deroudilhep
-      - icon: linkedin
-        href: https://linkedin.com/in/pierre-deroudilhe
+  template: solana
+format:
+  html:
+    toc: false
+    link-external-icon: false
 ---
 
 Sur ce site vous trouverez du code et de la doc, des articles et des projets, des posts de blog et des réflexions personnelles...
 
-En cas de question 👉 <pierre.deroudilhe@pm.me>
+### Expériences
+
+[AEF info](https://www.google.com/search?q=pierre+deroudilhe+site%3Aaefinfo.fr) | Journaliste, datajournaliste | Poste actuel
+
+[Le Parisien](https://www.google.com/search?q=pierre+deroudilhe+site%3Aleparisien.fr) | Journaliste stagiaire | Été 2021
+
+### Formation
+
+Centre de formation des journalistes | Paris\
+Master datajournalisme et enquête | 2022
+
+Institut d'études politiques (Sciences Po) | Lyon\
+Master datajournalisme et enquête | 2021
 
