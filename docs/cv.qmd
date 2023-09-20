@@ -5,20 +5,14 @@ format:
   html:
     toc: false
     link-external-icon: false
-    grid: 
-      margin-width: 400px
+    page-layout: full
 ---
 
-:::{.column-margin}
-| | |
-|---|---|
-| Mail perso | <pierre.deroudilhe@pm.me> |
-| Résidence | Paris |
-| Âge | 25 ans |
-| CIJP | n° 137393 |
-| Permis | B |
-:::
+:::::{.column-page-inset-right}
 
+::::{.grid}
+
+:::{.g-col-7}
 ### Compétences
 
 #### Data
@@ -68,3 +62,18 @@ Préparation aux concours des écoles de journalisme
 **Classe préparatoire littéraire**\
 *Lycée Édouard Herriot, Lyon* | De 2016 à 2018\
 Khâgne Chartes option géographie
+:::
+
+:::{.g-col-5}
+| | |
+|---|---|
+| Mail perso | <pierre.deroudilhe@pm.me> |
+| Résidence | Paris |
+| Âge | 25 ans |
+| CIJP | n° 137393 |
+| Permis | B |
+:::
+
+::::
+
+:::::
