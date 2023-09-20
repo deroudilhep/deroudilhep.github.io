@@ -23,7 +23,7 @@ website:
       - text: Posts de blog
         href: posts_index.qmd
       - text: CV
-        href: docs/cv.qmd
+        href: cv.qmd
   page-navigation: true
   page-footer:
     center:
