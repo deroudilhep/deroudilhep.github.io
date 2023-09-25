@@ -67,11 +67,14 @@ Khâgne Chartes option géographie
 :::{.g-col-5}
 | | |
 |---|---|
-| Mail perso | <pierre.deroudilhe@pm.me> |
+| Mail | <pierre.deroudilhe@aefinfo.fr> |
+| Tel | 06 23 49 14 29 |
 | Résidence | Paris |
 | Âge | 25 ans |
 | CIJP | n° 137393 |
 | Permis | B |
+
+La messagerie ProtonMail est sécurisée ainsi que Signal, application avec laquelle je peux recevoir des messages dont l'identité de l'expéditeur est scellée.
 :::
 
 ::::
