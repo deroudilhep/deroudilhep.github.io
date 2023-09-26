@@ -31,7 +31,7 @@ website:
       - text: Posts de blog
         href: posts_index.qmd
       - text: CV
-        href: cv.pdf
+        href: cv.qmd
     right:
       - icon: twitter
         href: https://twitter.com/deroudilhep
