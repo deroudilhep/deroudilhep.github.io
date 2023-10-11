@@ -1,28 +1,57 @@
 ---
 title: "Journaliste à AEF info"
 subtitle: <pierre.deroudilhe@aefinfo.fr>
+page-layout: full
+toc: false
+link-external-icon: false
+anchor-sections: false
 image: profile.jpg
 about:
-  template: solana
-format:
-  html:
-    toc: false
-    link-external-icon: false
+  id: about
+  template: trestles
+listing:
+  id: blog-posts
+  contents: posts
+  type: table
+  sort: "date desc"
+  max-items: 10
+  table-striped: true
+  table-hover: true
+  fields: 
+    - date
+    - title
+    - description
+    - reading-time
+  sort-ui: false
+  filter-ui: false
 ---
+
+:::{#about}
+
+### Bienvenue !
 
 Sur ce site vous trouverez du code et de la doc, des articles et des projets, des posts de blog et des réflexions personnelles...
 
 ### Expériences
 
-[AEF info](https://www.google.com/search?q=pierre+deroudilhe+site%3Aaefinfo.fr) | Journaliste, datajournaliste | Poste actuel
+**Journaliste, datajournaliste**\
+[AEF info](https://www.google.com/search?q=pierre+deroudilhe+site%3Aaefinfo.fr) | Poste actuel
 
-[Le Parisien](https://www.google.com/search?q=pierre+deroudilhe+site%3Aleparisien.fr) | Journaliste stagiaire | Été 2021
+**Journaliste stagiaire**\
+[Le Parisien](https://www.google.com/search?q=pierre+deroudilhe+site%3Aleparisien.fr) | Été 2021
 
 ### Formation
 
-Centre de formation des journalistes | Paris\
-Master datajournalisme et enquête | 2022
+**Datajournalisme et enquête**\
+*CFJ Paris, ScPo Lyon* | 2020-2022
 
-Institut d'études politiques (Sciences Po) | Lyon\
-Master datajournalisme et enquête | 2021
+**Licence d'Histoire**\
+*Lille III* | 2018-2019
+
+:::
+
+### Derniers posts de blog
+
+:::{#blog-posts}
+:::
 
