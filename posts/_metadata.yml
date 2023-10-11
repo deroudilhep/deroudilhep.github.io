@@ -5,4 +5,5 @@
 freeze: true
 
 # Enable banner style title blocks
+title-block-style: plain
 title-block-banner: true
