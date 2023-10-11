@@ -1,15 +1,20 @@
 ---
 title: "Posts de blog"
+page-layout: full
+toc: false
+link-external-icon: false
+anchor-sections: false
 listing:
   contents: posts
-  sort: "date desc"
   type: table
+  sort: "date desc"
   table-striped: true
   table-hover: true
   categories: true
   feed: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+  fields: 
+    - date
+    - title
+    - description
+    - reading-time
 ---
