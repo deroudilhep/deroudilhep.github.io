@@ -4,10 +4,11 @@ project:
 
 website:
   title: Pierre Deroudilhe
-  description: |
-    Site web et blog de Pierre Deroudilhe, journaliste et datajournaliste à AEF info.
+  description: >
+    Site web et blog de Pierre Deroudilhe, 
+    journaliste et datajournaliste à AEF info.
   favicon: favicon.png
-  site-url: https://deroudilhep.github.io
+  site-url: https://pderoudilhe.fr
   page-navigation: true
   twitter-card: true
   open-graph:
