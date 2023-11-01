@@ -1,1 +1,1 @@
-Sitemap: https://deroudilhep.github.io/sitemap.xml
+Sitemap: https://pderoudilhe.fr/sitemap.xml

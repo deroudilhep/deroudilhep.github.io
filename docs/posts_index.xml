@@ -6,11 +6,11 @@
       version="2.0">
 <channel>
 <title>Pierre Deroudilhe</title>
-<link>https://deroudilhep.github.io/posts_index.html</link>
-<atom:link href="https://deroudilhep.github.io/posts_index.xml" rel="self" type="application/rss+xml"/>
-<description>Site web et blog de Pierre Deroudilhe, journaliste et datajournaliste à AEF info.
+<link>https://pderoudilhe.fr/posts_index.html</link>
+<atom:link href="https://pderoudilhe.fr/posts_index.xml" rel="self" type="application/rss+xml"/>
+<description>Site web et blog de Pierre Deroudilhe,  journaliste et datajournaliste à AEF info.
 </description>
-<generator>quarto-1.2.335</generator>
-<lastBuildDate>Wed, 11 Oct 2023 16:39:12 GMT</lastBuildDate>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Wed, 01 Nov 2023 14:46:41 GMT</lastBuildDate>
 </channel>
 </rss>
