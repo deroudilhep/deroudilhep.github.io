@@ -5,16 +5,21 @@ toc: false
 anchor-sections: false
 ---
 
+```{r, include=FALSE}
+n <- round(as.numeric(difftime(Sys.Date(), as.Date("1998-06-16"), units = "days")) / 365)
+```
+
+
 |           |                                |
 |-----------|--------------------------------|
 | Mail      | <pierre.deroudilhe@aefinfo.fr> |
 | Téléphone | 06 23 49 14 29                 |
 | Résidence | Paris                          |
-| Âge       | 25 ans                         |
+| Âge       | `r n` ans                      |
 | CIJP      | n° 137393                      |
 | Permis    | B                              |
 
-: La messagerie ProtonMail est sécurisée ainsi que Signal, application avec laquelle je peux recevoir des messages dont l'identité de l'expéditeur est scellée.
+: Mon numéro est enregistré sur Signal pour l'envoi de messages sécurisés.
 
 ### Compétences
 
