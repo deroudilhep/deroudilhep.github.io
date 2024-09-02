@@ -1,0 +1,12 @@
+---
+title: Titre du post
+description: Description du post
+date: 2024-09-02
+#date-modified: 2024-09-02
+author: Pierre Deroudilhe
+categories:
+  - type
+  - grande categorie
+  - sous categorie
+draft: true
+---
