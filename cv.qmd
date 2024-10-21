@@ -36,9 +36,9 @@ Méthodes de l'enquête (dont écriture)\
 
 #### Code et programmation
 
-R (automatisation, scraping...)\
+R (automatisation, scraping, Shiny *apps*, etc.)\
 HTML et CSS\
-*Shell scripting*, *Command Line*, systèmes Linux
+*Shell scripting*, *Command Line*, systèmes Unix...
 
 #### Langues
 
