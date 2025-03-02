@@ -2,6 +2,5 @@
 title: "Erreur 404 | Page introuvable 🤔"
 ---
 
-La page que vous avez demandée n'a pas pu être trouvée. Peut-être a-t-elle été déplacée ou renommée.
-
-Une recherche sur le site pourra vous aider à retrouver la page que vous cherchiez.
+La page que vous avez demandée n'a pas pu être trouvée. Peut-être a-t-elle été déplacée ou renommée.\
+Une recherche sur le site vous aidera peut-être à l'atteindre.
