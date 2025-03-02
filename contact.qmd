@@ -1,0 +1,49 @@
+---
+title: "Contact et informations"
+image: profil.jpg
+toc: false
+anchor-sections: false
+---
+
+```{r, include=FALSE}
+n <- Sys.Date() |>
+  difftime(as.Date("1998-06-16"), units = "days") |>
+  as.numeric() |>
+  {\(x) x / 365}() |>
+  floor()
+```
+
+:::{.columns}
+
+::::{.column width="50%"}
+
+\
+\
+**Mail**\
+<pierre.deroudilhe@aefinfo.fr>\
+<pierre.deroudilhe@pm.me> (adresse sécurisée)
+
+**Téléphone**\
++33 (0) 6 23 49 14 29 (Signal possible)
+
+::::
+
+::::{.column width="10%"}
+
+::::
+
+::::{.column width="40%"}
+
+\
+
+|               |                                |
+|---------------|--------------------------------|
+| **Résidence** | Paris                          |
+| **Âge**       | `r n` ans                      |
+| **CIJP**      | n° 137393                      |
+| **Permis**    | B                              |
+
+::::
+
+
+
