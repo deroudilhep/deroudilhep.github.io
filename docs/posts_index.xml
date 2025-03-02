@@ -8,9 +8,14 @@
 <title>Pierre Deroudilhe</title>
 <link>https://pderoudilhe.fr/posts_index.html</link>
 <atom:link href="https://pderoudilhe.fr/posts_index.xml" rel="self" type="application/rss+xml"/>
-<description>Site web et blog de Pierre Deroudilhe,  journaliste et datajournaliste à AEF info.
+<description>Site web de Pierre Deroudilhe, journaliste et datajournaliste à AEF info. Compétences, expériences et formation, articles, code et documentation.
 </description>
+<image>
+<url>https://pderoudilhe.fr/profil.jpg</url>
+<title>Pierre Deroudilhe</title>
+<link>https://pderoudilhe.fr/posts_index.html</link>
+</image>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Mon, 18 Nov 2024 09:16:12 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Mar 2025 11:28:46 GMT</lastBuildDate>
 </channel>
 </rss>

@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pderoudilhe.fr/posts_index.html</loc>
-    <lastmod>2023-11-05T19:58:26.240Z</lastmod>
+    <loc>https://pderoudilhe.fr/contact.html</loc>
+    <lastmod>2025-03-02T10:51:33.435Z</lastmod>
   </url>
   <url>
     <loc>https://pderoudilhe.fr/index.html</loc>
-    <lastmod>2024-11-18T09:02:39.238Z</lastmod>
+    <lastmod>2025-03-02T11:17:03.890Z</lastmod>
   </url>
   <url>
     <loc>https://pderoudilhe.fr/cv.html</loc>
-    <lastmod>2024-11-18T09:02:39.227Z</lastmod>
+    <lastmod>2025-03-01T19:10:12.368Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pderoudilhe.fr/posts_index.html</loc>
+    <lastmod>2025-03-02T10:56:55.199Z</lastmod>
   </url>
 </urlset>
