@@ -2,14 +2,32 @@
 
 // Colors
 
-$primary: #296eb4 !default;
+$link-color:               #977cd3 !default;
+
+// Inline Code
+
+$code-color:               #977cd3 !default;
+
+// Callouts
+
+$callout-color-note:       #80a4f3 !default;
+$callout-color-tip:        #88e7bb !default;
+$callout-color-caution:    #fe8246 !default;
+$callout-color-warning:    #fff48f !default;
+$callout-color-important:  #f5504f !default;
 
 /*-- scss:rules --*/
 
 // Captions
 
 caption {
-  font-size: 1rem * .875;
   font-style: italic;
-  color: #908e95;
+}
+
+.no-margin-top {
+  margin-top: 0;
+}
+
+.about-entity {
+  padding-right: 25.50px !important;
 }
