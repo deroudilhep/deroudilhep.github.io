@@ -1,20 +1,18 @@
 ---
-title: "Posts de blog"
+title: "Articles"
 page-layout: full
+image: profil.jpg
 toc: false
-link-external-icon: false
 anchor-sections: false
 listing:
   contents: posts
-  type: table
+  type: default
   sort: "date desc"
-  table-striped: true
-  table-hover: true
+  image-align: left
+  date-format: long
   categories: true
   feed: true
-  fields: 
-    - date
-    - title
-    - description
-    - reading-time
+  fields: [title, subtitle, author, description, date, image, reading-time, categories]
+  sort-ui: true
+  filter-ui: true
 ---
