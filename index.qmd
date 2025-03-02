@@ -1,44 +1,36 @@
 ---
-title: "Journaliste à AEF info"
-subtitle: <pierre.deroudilhe@aefinfo.fr>
-page-layout: full
+title: "Pierre Deroudilhe"
+subtitle: Journaliste à AEF info
+image: profil.jpg
 toc: false
-link-external-icon: false
 anchor-sections: false
-image: profile.jpg
 about:
   id: about
   template: trestles
+  image-alt: Pierre Deroudilhe
 listing:
   id: blog-posts
   contents: posts
   type: table
   sort: "date desc"
-  max-items: 10
+  max-items: 5
   table-striped: true
   table-hover: true
-  fields: 
-    - date
-    - title
-    - description
-    - reading-time
-  sort-ui: false
+  date-format: short
+  fields: [image, date, title, reading-time]
   filter-ui: false
+  sort-ui: false
 ---
 
 :::{#about}
 
-### Bienvenue !
-
-Sur ce site vous trouverez du code et de la doc, des articles et des projets, des posts de blog et des réflexions personnelles...
-
-### Expériences
+### Expériences {.no-margin-top}
 
 **Journaliste, datajournaliste**\
-[AEF info](https://www.google.com/search?q=pierre+deroudilhe+site%3Aaefinfo.fr) | Poste actuel
+[AEF info (voir les articles)](https://www.google.com/search?q=pierre+deroudilhe+site%3Aaefinfo.fr) | Poste actuel
 
 **Journaliste stagiaire**\
-[Le Parisien](https://www.google.com/search?q=pierre+deroudilhe+site%3Aleparisien.fr) | Été 2021
+[Le Parisien (voir les articles)](https://www.google.com/search?q=pierre+deroudilhe+site%3Aleparisien.fr) | Été 2021
 
 ### Formation
 
@@ -46,11 +38,20 @@ Sur ce site vous trouverez du code et de la doc, des articles et des projets, de
 *CFJ Paris, ScPo Lyon* | 2020-2022
 
 **Licence d'Histoire**\
-*CPGE Édouard Herriot Lyon, Lille III* | 2016-2019
+*Académie ESJ, Lille III* | 2016-2019
+
+**Classe préparatoire littéraire**\
+*Lycée Édouard Herriot, Lyon* | 2016-2018
 
 :::
 
-### Derniers posts de blog
+Originaire de Lyon, j'ai intégré le parcours datajournalisme et enquête du Centre de formation des journalistes après une classe préparatoire littéraire et une licence d'histoire obtenue lors de mon passage à l'Académie de l'ESJ.
+
+Je me suis spécialisé dans le journalisme de données, notamment l'analyse, la visualisation et l'automatisation via la programmation informatique.
+
+Ce que j'aime le plus dans mon métier : accompagner les journalistes spécialisés dans leurs besoins vis-à-vis de la donnée, travailler en équipe pour écrire des articles alliant rigueur journalistique et mise en forme ludique de l'information.
+
+### Derniers articles sur ce site
 
 :::{#blog-posts}
 :::
