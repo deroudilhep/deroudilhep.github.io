@@ -5,56 +5,74 @@ project:
 website:
   title: Pierre Deroudilhe
   description: >
-    Site web et blog de Pierre Deroudilhe, 
-    journaliste et datajournaliste à AEF info.
+    Site web de Pierre Deroudilhe, journaliste et datajournaliste à AEF info.
+    Compétences, expériences et formation, articles, code et documentation.
+  image: profil.jpg
   favicon: favicon.png
-  site-url: https://pderoudilhe.fr
-  page-navigation: true
-  twitter-card: true
+  twitter-card:
+    creator: "@deroudilhep"
   open-graph:
     locale: fr_FR
-    
+    site-name: pderoudilhe.fr
+  site-url: https://pderoudilhe.fr
+
   navbar:
     search: true
-    
-    right:
-      - icon: twitter
-        href: https://twitter.com/deroudilhep
-      - icon: mastodon
-        href: https://fosstodon.org/@deroudilhep
-      - icon: github
-        href: https://github.com/deroudilhep
+
+    left:
+      - text: Articles
+        href: posts_index.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+
+    tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/pierre-deroudilhe
+      - icon: github
+        href: https://github.com/deroudilhep
+      - icon: mastodon
+        href: https://fosstodon.org/@deroudilhep
+      - icon: twitter
+        href: https://twitter.com/deroudilhep
       - icon: rss
         href: posts_index.xml
-        
-    left:
-      - text: Posts de blog
-        href: posts_index.qmd
-      - text: CV
-        href: cv.qmd
-  
+
   page-footer:
+    left: "Copyright 2025, Pierre Deroudilhe"
+
     center:
-      - text: Posts de blog
+      - text: Articles
         href: posts_index.qmd
       - text: CV
         href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/pierre-deroudilhe
+      - icon: github
+        href: https://github.com/deroudilhep
+      - icon: mastodon
+        href: https://fosstodon.org/@deroudilhep
+      - icon: twitter
+        href: https://twitter.com/deroudilhep
+      - icon: rss
+        href: posts_index.xml
 
 format:
   html:
     lang: fr
+    tbl-cap-location: bottom
     toc: true
     toc-title: Sur cette page
-    toc-depth: 4
     css: styles.css
-    theme: 
-      - united
-      - custom.scss
     anchor-sections: true
-    link-external-icon: true
     link-external-newwindow: true
-    code-copy: true
     code-overflow: wrap
-    tbl-cap-location: bottom
+    code-copy: true
+    theme:
+      - spacelab
+      - custom.scss
