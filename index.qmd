@@ -7,7 +7,6 @@ anchor-sections: false
 about:
   id: about
   template: trestles
-  image-alt: Pierre Deroudilhe
 listing:
   id: blog-posts
   contents: posts

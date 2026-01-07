@@ -13,37 +13,21 @@ n <- Sys.Date() |>
   floor()
 ```
 
-:::{.columns}
-
-::::{.column width="50%"}
-
-\
-\
 **Mail**\
 <pierre.deroudilhe@aefinfo.fr>\
 <pierre.deroudilhe@pm.me> (adresse sécurisée)
 
 **Téléphone**\
-+33 (0) 6 23 49 14 29 (Signal possible)
++33 (0) 7 62 53 74 33 (Signal possible)
 
-::::
+**Résidence**\
+Paris et Lyon
 
-::::{.column width="10%"}
+**Âge**\
+`r n` ans
 
-::::
+**CIJP**\
+n°137393
 
-::::{.column width="40%"}
-
-\
-
-|               |                                |
-|---------------|--------------------------------|
-| **Résidence** | Paris                          |
-| **Âge**       | `r n` ans                      |
-| **CIJP**      | n° 137393                      |
-| **Permis**    | B                              |
-
-::::
-
-
-
+**Permis**\
+B
