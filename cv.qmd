@@ -6,6 +6,21 @@ toc: false
 anchor-sections: false
 ---
 
+```{r, include=FALSE}
+n <- Sys.Date() |>
+  difftime(as.Date("1998-06-16"), units = "days") |>
+  as.numeric() |>
+  {\(x) x / 365}() |>
+  floor()
+```
+
+|               |                                |
+|---------------|--------------------------------|
+| **Résidence** | Paris                          |
+| **Âge**       | `r n` ans                      |
+| **CIJP**      | n° 137393                      |
+| **Permis**    | B                              |
+
 ### Compétences
 
 :::{.columns}
@@ -26,9 +41,9 @@ Méthodes de l'enquête (dont écriture)\
 ::::{.column width="50%"}
 
 **Code et programmation**\
-R (automatisation, scraping, analyse de données, Shiny *apps*, etc.)\
-HTML et CSS (bases)\
-*Shell scripting*, *Command Line*, systèmes Unix...
+R (scraping, analyse de données, automatisation, Tidyverse, Shiny, Quarto, développement de librairies, etc.)\
+Python (bases), HTML et CSS\
+Git, *Shell scripting*, *Command Line*, systèmes Unix
 
 **Langues**\
 Anglais niveau C1 (Cambridge Advanced: 188/230)
@@ -42,6 +57,10 @@ Anglais niveau C1 (Cambridge Advanced: 188/230)
 ::::{.column width="40%"}
 
 ### Expériences professionnelles
+
+**Intervenant en école de journalisme**\
+*IPJ Paris-Dauphine* \| Depuis 2024\
+Journalisme de données, traitement de la donnée sous R
 
 **Journaliste**\
 *AEF info, Paris* \| Depuis octobre 2021\
@@ -60,6 +79,10 @@ Service Data et innovation, analyse de données, lien avec le service Infographi
 ::::{.column width="50%"}
 
 ### Diplômes et formation
+
+**Droit du travail**\
+*Cnam, Paris* \| Depuis 2025\
+DRS003, Introduction au droit du travail\
 
 **Datajournalisme et enquête**\
 *CFJ, Paris* \| De 2020 à 2022\
