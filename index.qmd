@@ -16,7 +16,7 @@ listing:
   table-striped: true
   table-hover: true
   date-format: short
-  fields: [image, date, title, reading-time]
+  fields: [date, title]
   filter-ui: false
   sort-ui: false
 ---

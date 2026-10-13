@@ -8,11 +8,10 @@ listing:
   contents: posts
   type: default
   sort: "date desc"
-  image-align: left
   date-format: long
   categories: true
   feed: true
-  fields: [title, subtitle, author, description, date, image, reading-time, categories]
+  fields: [title, description, date, image, categories]
   sort-ui: true
   filter-ui: true
 ---

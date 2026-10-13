@@ -71,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-author','listing-description','listing-date','listing-image','listing-reading-time','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-description','listing-date','listing-image','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-categories"],
     };
@@ -191,9 +191,6 @@ ul.task-list li input[type="checkbox"] {
         </option>
          <option value="listing-date-sort" data-direction="desc">
           Date - Le plus récent
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Auteur·rice
         </option>
      </select>
   </div>
