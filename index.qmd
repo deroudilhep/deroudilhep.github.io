@@ -26,31 +26,29 @@ listing:
 ### Expériences {.no-margin-top}
 
 **Journaliste, datajournaliste**\
-[AEF info (voir les articles)](https://www.google.com/search?q=pierre+deroudilhe+site%3Aaefinfo.fr) | Poste actuel
+[AEF info (voir les articles)](https://www.google.com/search?q=pierre+deroudilhe+site%3Aaefinfo.fr) | Depuis 2021
 
-**Journaliste stagiaire**\
-[Le Parisien (voir les articles)](https://www.google.com/search?q=pierre+deroudilhe+site%3Aleparisien.fr) | Été 2021
+**Intervenant en école de journalisme**\
+IPJ et CFJ | Depuis 2024
 
 ### Formation
 
-**Datajournalisme et enquête**\
-*CFJ Paris, ScPo Lyon* | 2020-2022
+**Droit du travail**\
+*Cnam, Paris* | Depuis 2025
 
-**Licence d'Histoire**\
-*Académie ESJ, Lille III* | 2016-2019
+**Journalisme de données et enquête**\
+*ScPo Lyon, CFJ Paris* | 2020-2022
 
-**Classe préparatoire littéraire**\
-*Lycée Édouard Herriot, Lyon* | 2016-2018
+**CPGE littéraire, licence d'histoire**\
+*Lycée Édouard Herriot, Lyon* | 2016-2019
 
 :::
 
-Originaire de Lyon, j'ai intégré le parcours datajournalisme et enquête du Centre de formation des journalistes après une classe préparatoire littéraire et une licence d'histoire obtenue lors de mon passage à l'Académie de l'ESJ.
+Originaire de Lyon, j'ai intégré le parcours datajournalisme et enquête du Centre de formation des journalistes en 2020, après une classe préparatoire littéraire et une licence d'histoire.
 
 Je me suis spécialisé dans le journalisme de données, notamment l'analyse, la visualisation et l'automatisation via la programmation informatique.
 
-Ce que j'aime le plus dans mon métier : accompagner les journalistes spécialisés dans leurs besoins vis-à-vis de la donnée, travailler en équipe pour écrire des articles alliant rigueur journalistique et mise en forme ludique de l'information.
-
-### Derniers articles sur ce site
+### Derniers articles
 
 :::{#blog-posts}
 :::

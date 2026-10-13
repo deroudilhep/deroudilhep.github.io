@@ -27,23 +27,26 @@ n <- Sys.Date() |>
 
 ::::{.column width="50%"}
 
-**Journalisme de données**\
-Statistiques et probabilités\
-Tableur et R\
-Datawrapper, Flourish, Tableau, etc.
-
 **Enquête**\
-Méthodes de l'enquête (dont écriture)\
-*OSINT*\
+\- Méthodes de l'enquête journalistique\
+\- Pratique du terrain et entretiens\
+\- Méthodes du contradictoire\
+\- Vérification de l'information\
+\- *Open Source INTelligence*
+
+**Analyse de données**\
+\- Statistiques et probabilités\
+\- Outils : Tableur et R\
+\- Visualisation de données (graphiques, infographies)
 
 ::::
 
 ::::{.column width="50%"}
 
 **Code et programmation**\
-R (*scraping*, analyse de données, automatisation, Tidyverse, Shiny, Quarto, développement de librairies, etc.)\
-Python (bases), HTML et CSS\
-Git, *Shell scripting*, *Command Line*, systèmes Unix
+\- R (*scraping*, automatisation, développement applicatif)\
+\- Python (bases), HTML et CSS\
+\- Développement collaboratif, Git, *Command Line*, systèmes Unix, etc.
 
 **Langues**\
 Anglais niveau C1 (Cambridge Advanced: 188/230)
@@ -59,16 +62,20 @@ Anglais niveau C1 (Cambridge Advanced: 188/230)
 ### Expériences professionnelles
 
 **Intervenant en école de journalisme**\
-*IPJ et CFJ* \| Depuis 2024\
-Journalisme de données, traitement de la donnée sous R
+*IPJ et CFJ, Paris* \| Depuis 2024\
+Enseignement du journalisme de données aux étudiants de master
 
 **Journaliste**\
 *AEF info, Paris* \| Depuis octobre 2021\
-Fil Data-Sup Recherche, puis pour les cinq pôles de la rédaction : enquêtes, analyse et mise en forme de données, rédaction et publication de dépêches, création de solutions techniques pour le traitement de la donnée au sein de la rédaction, formations en interne
+\- Enquête, analyse et mise en forme de données, rédaction et publication d'articles\
+\- Création de solutions techniques pour le traitement de la donnée au sein des rédactions\
+\- Formations dispensées en interne (Excel, analyse de données, etc.)
 
 **Journaliste (stage)**\
 *Le Parisien, Paris* \| De juillet à août 2021\
-Service Data et innovation, analyse de données, lien avec le service Infographie, rédaction d'articles et assistance aux autres services du Web pour le traitement de la donnée
+\- Service Data et innovation, analyse de données, lien avec le service Infographie\
+\- Rédaction d'articles d'information générale\
+\- Assistance aux autres services du Web pour le traitement de la donnée
 
 ::::
 
@@ -82,12 +89,12 @@ Service Data et innovation, analyse de données, lien avec le service Infographi
 
 **Droit du travail**\
 *Cnam, Paris* \| Depuis 2025\
-DRS003, Introduction au droit du travail\
-DRS101, Relations individuelles
+\- DRS003, Introduction au droit du travail (16/20)\
+\- DRS101, Relations individuelles (15/20)
 
-**Datajournalisme et enquête**\
-*CFJ, Paris* \| De 2020 à 2022\
-Double diplôme avec Sciences Po Lyon (grade master)
+**Journalisme de données et enquête**\
+*Sciences Po Lyon* \| De 2020 à 2022\
+Double diplôme avec le Centre de formation des journalistes (grade master)
 
 **L'Académie**\
 *ESJ, Lille* \| De 2018 à 2020\
